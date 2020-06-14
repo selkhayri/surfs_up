@@ -1,2 +1,2 @@
 # surfs_up
-Weather analysis for surf shop
+Weather analysis for a surf shop
