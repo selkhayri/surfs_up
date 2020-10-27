@@ -2,7 +2,7 @@
 
 ## Aim
 
-The aim of this project was to determine the viability of establishing an ice cream and surf shop on the island of Oahu, Hawaii. To accomplish this goal, the seasonal weather data of the island was analyzed for the months of June and December for the years between 2010 and 2017, inclusive. The weather data is obtained from nine (9) weather monitoring stations and stored in an sqlite database named hawaii.sqlite. 
+The aim of this project was to determine the viability of establishing an ice cream and surf shop on the island of Oahu, Hawaii. To accomplish this goal, the seasonal weather data of the island was analyzed for the months of June and December for the years between 2010 and 2017, inclusive. The weather data was obtained from nine (9) weather monitoring stations and stored in an sqlite database named hawaii.sqlite. 
 
 ## Key Statistical Data
 
